@@ -1,0 +1,3 @@
+$(btnMagic).click(function () {
+    displaySecretText();
+})
